@@ -1,2 +1,2 @@
 # tribute-page
-This is atribute page for free code camp project for frontend developer
+This is a tribute page for free code camp project for frontend developer.
